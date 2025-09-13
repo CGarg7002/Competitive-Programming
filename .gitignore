@@ -39,3 +39,28 @@
 
 # debug information files
 *.dwo
+
+
+
+# Neovim swap/backup files
+*.swp
+*.swo
+*.swx
+*.tmp
+*~
+
+
+
+# Debug/Log files
+*.log
+*.stackdump
+*.dSYM/
+vgcore.*
+
+
+
+# ==============================
+# OS-specific junk
+# ==============================
+.DS_Store
+Thumbs.db
